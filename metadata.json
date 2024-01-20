@@ -1,7 +1,7 @@
 {
-  "name": "<NOM_OPERATEUR>",
-  "website": "<VOTRE_SITE_WEB>",
-  "description": "<DESCRIPTION>",
+  "name": "JovaNode",
+  "website": "",
+  "description": "Jova Eigenlayer Node",
   "logo": "<https://www.example.com/logo.png>",
   "twitter": "<VOTRE_TWITTER>"
 }
